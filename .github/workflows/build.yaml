@@ -1,7 +1,7 @@
 name: Build @collabland/token-price-action
 
-on:
-  push:
+on:main net 
+  push:ok4
     branches:
       - master
   pull_request:
